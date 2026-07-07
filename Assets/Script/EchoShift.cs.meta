@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 261e5e943c2eeb745a7541e6fe94e142
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bodyMarkerPrefab: {fileID: 6877241513154604136, guid: dc428e9ec0ff94445801468390ac335e, type: 3}
+  - echoIdlingSprite: {fileID: 1435285874, guid: a27d1aa3e11945b489e7bd0c95fbe6b6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
